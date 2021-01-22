@@ -10,6 +10,7 @@ namespace GoldFish
 
 		public static bool LoadFromCmdLine(ref ProgParams progParams, string[] args)
 		{
+			/*Atlieka, kas būtina*/
 			return true;
 		}
 	}
